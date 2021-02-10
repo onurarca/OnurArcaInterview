@@ -6,3 +6,6 @@ On the other hand in my "FirstPage_BowlIndex" class I initialized all box elemen
 
 Please Use "CucumberRunner" Class to run the Code.
 At the end, code will wait 10 seconds and then close the browser.
+
+I am using this project file for interviews. That is why I have other dependencies in my pom.xml
+such as: rest assured, Appium, Apache POI etc.
