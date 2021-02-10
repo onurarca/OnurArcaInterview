@@ -1,0 +1,8 @@
+Hello,
+
+I wanted to keep the code simple.
+That's why only used one box for the left and right side of the scale bowl.
+On the other hand in my "FirstPage_BowlIndex" class I initialized all box elements (They can be used to improve the code later).
+
+Please Use "CucumberRunner" Class to run the Code.
+At the end, code will wait 10 seconds and then close the browser.
